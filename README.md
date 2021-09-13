@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Music Generation with Neural Networks
 
 You can use the [editor on GitHub](https://github.com/marghi2000/nn-proposal/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,6 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+![521_2020_5399_Fig7_HTML](https://user-images.githubusercontent.com/54873355/133161901-0543704d-8d08-4631-8a1d-7b744712b67b.png)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
